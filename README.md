@@ -46,5 +46,5 @@ You can deploy this portfolio website using platforms like GitHub Pages, Netlify
 
 Feel free to explore, modify, and use this template for creating your own portfolio website. If you find this template helpful, consider giving it a star! If you have any questions or suggestions, feel free to reach out.
 
-someetshende.in: # (Provide a link to any website that inspired your design)
+https://www.someetshende.in/
 https://linkedin.com/in/someets
