@@ -36,7 +36,7 @@ This repository contains the code for my personal portfolio website. The website
 
 ## Deployment
 
-You can deploy this portfolio website using platforms like GitHub Pages, Netlify, or Vercel. Make sure to update the necessary deployment settings and adjust any paths if needed.
+You can deploy this portfolio website using platforms like GitHub Pages. Make sure to update the necessary deployment settings and adjust any paths if needed.
 
 ## Credits
 
